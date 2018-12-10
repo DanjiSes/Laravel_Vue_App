@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+@import 'font-awesome.min.css';
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+// @import '~bootstrap/scss/bootstrap';
+
+// Bulma
+@import '~bulma/css/bulma.css';
+
+// Blocks
+// @import 'blocks/_all.scss';
+
+.product {
+  
+  img {
+    width: 100%;
+    height: auto;
+  }
+
+}
